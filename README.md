@@ -25,17 +25,17 @@ Public onboarding preview:
 https://github.com/ELYASIBKR/vsme-onboarding-preview
 
 Product source system:
-https://github.com/ELYASIBKR/vsme-project-source
+`ELYASIBKR/vsme-project-source`
 
 ### AI Job Hunter — AI Workflow Product Experiment
 
 Review-first AI workflow for job discovery, fit analysis and application-prep systems:
-https://github.com/ELYASIBKR/ai-job-hunter
+`ELYASIBKR/ai-job-hunter`
 
 ### Career OS — AI-Agent Career Knowledge Base
 
 Structured career knowledge base for resumes, cover letters, LinkedIn, interview prep and role-specific positioning:
-https://github.com/ELYASIBKR/elyasib-career-os
+`ELYASIBKR/elyasib-career-os`
 
 ### GAJA — Data Operations / CRM Cleanup
 
