@@ -41,6 +41,12 @@ Structured career knowledge base for resumes, cover letters, LinkedIn, interview
 
 Authorized read-only data extraction, customer-type enrichment, deduplication and normalization system documented inside Career OS.
 
+### FirstClick Fix — Open-Source Growth Experiment
+
+A free, MIT-licensed homepage headline generator for Shopify stores and service businesses. It drafts three headline directions, a supporting line and a CTA locally in the browser, with no login or upload.
+
+[Try the tool](https://elyasibkr.github.io/firstclick-headline-generator/) · [View the source](https://github.com/ELYASIBKR/firstclick-headline-generator)
+
 ## Portfolio
 
 Full portfolio:
