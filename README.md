@@ -47,6 +47,8 @@ A free, MIT-licensed homepage headline generator for Shopify stores and service 
 
 [Try the tool](https://elyasibkr.github.io/firstclick-headline-generator/) · [View the source](https://github.com/ELYASIBKR/firstclick-headline-generator)
 
+For a site-specific next step, [request one free homepage finding](https://elyasibkr.github.io/firstclick-headline-generator/#free-finding-title) with no purchase obligation, or [preview the $29 First Screen Fix](https://elyasibkr.github.io/firstclick-headline-generator/first-screen-fix-sample.html#next-title). The fix is AI-assisted copy guidance, delivered before payment and payable only if useful; it does not include website implementation.
+
 ## Portfolio
 
 Full portfolio:
