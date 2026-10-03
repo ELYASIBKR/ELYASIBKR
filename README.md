@@ -43,11 +43,13 @@ Authorized read-only data extraction, customer-type enrichment, deduplication an
 
 ### FirstClick Fix — Open-Source Growth Experiment
 
-A free, MIT-licensed homepage headline generator for Shopify stores and service businesses. It drafts three headline directions, a supporting line and a CTA locally in the browser, with no login or upload.
+A free, MIT-licensed homepage headline generator for Shopify stores, SaaS products and service businesses. It drafts three headline directions, a supporting line and a CTA locally in the browser, with no login or upload.
 
 [Try the tool](https://elyasibkr.github.io/firstclick-headline-generator/) · [View the source](https://github.com/ELYASIBKR/firstclick-headline-generator)
 
 For a site-specific next step, [request one free homepage finding](https://elyasibkr.github.io/firstclick-headline-generator/#free-finding-title) with no purchase obligation, or [preview the $29 First Screen Fix](https://elyasibkr.github.io/firstclick-headline-generator/first-screen-fix-sample.html#next-title). The fix is AI-assisted copy guidance, delivered before payment and payable only if useful; it does not include website implementation.
+
+GitHub users may [request the work-first fix in a public issue](https://github.com/ELYASIBKR/firstclick-headline-generator/issues/new?template=first-screen-fix.yml). Both the request and AI-assisted reply are public, so share only a public homepage URL and non-sensitive context. The [email route](https://elyasibkr.github.io/firstclick-headline-generator/#human-fix-title) remains available for a private reply.
 
 [Public example of the free-finding scope](https://github.com/vercel/next.js/discussions/99054#discussioncomment-18622895): an AI-assisted observation about a PRO badge beside a free-use promise; the creator reported removing the badge. This was unpaid, based on public HTML, and is not a paid client result, endorsement or measured conversion gain.
 
